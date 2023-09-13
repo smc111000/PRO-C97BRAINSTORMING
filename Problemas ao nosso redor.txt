@@ -1,24 +1,34 @@
 Problemas ao meu redor:
 
-1 - Meu cachorro foge com muita frequência
-S:  Refoçar a cerca 
-2 - Meu amigo está com depressão
+1 - Meu cachorro foge com muita frequência 5/10
+S:  Criar uma app para rastrear o pet e identificar por onde ele fugio
+
+2 - Meu amigo está com depressão 4/10
 S:  Aconselhá-lo a encontrar com um psicologo
-3 - Lavar a louça
+
+3 - Lavar a louça 3/10
 S:  Comprar uma maquina de lavar louça
-4 - Ser proibido jogar truco na escola
-S:  Chegar a um acordo com a escola até todos concordem e seja possível jogar
-5 - desigualdade social na cidade
+
+4 - Ser proibido jogar truco na escola 2/10
+S:  Criar um app para jogar truco
+
+5 - desigualdade social na cidade  8/10
 S:  A prefeitura ajudar os que não tem tantas condições
-6 - falta de escolaridade
+
+6 - falta de escolaridade 8/10
 S:  O governo ajudar nisso
-7 - Problema de iluminação
-S:  A prefeitura poderia reforçar de uma vez todos os postes para não ter que arrumarem de semana em semana
-8 - criminalidade
-S:  Aumentar a quantidade de policiais em locais que pretendem ter assaltos
-9 - Poluição
-S:  Industrias tomarem cuidado com o que queimam
-10 - falta de infraestrutura
+
+7 - Problema de iluminação 8/10
+S:  Criar um app para identificar a lampada quebrada e poder arrumar 
+remotamente
+
+8 - criminalidade 8/10
+S:  Colocar mais cameras de seguranças
+
+9 - Poluição 8/10
+S:  Colocar mais cameras escondidas pela cidade para identificar quem esta poluindo
+
+10 - falta de infraestrutura 7/10
 S:  Prefeitura e governo tomarem provedencias
 
 
