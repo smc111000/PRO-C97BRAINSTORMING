@@ -1,0 +1,25 @@
+Problemas ao meu redor:
+
+1 - Meu cachorro foge com muita frequência
+S:  Refoçar a cerca 
+2 - Meu amigo está com depressão
+S:  Aconselhá-lo a encontrar com um psicologo
+3 - Lavar a louça
+S:  Comprar uma maquina de lavar louça
+4 - Ser proibido jogar truco na escola
+S:  Chegar a um acordo com a escola até todos concordem e seja possível jogar
+5 - desigualdade social na cidade
+S:  A prefeitura ajudar os que não tem tantas condições
+6 - falta de escolaridade
+S:  O governo ajudar nisso
+7 - Problema de iluminação
+S:  A prefeitura poderia reforçar de uma vez todos os postes para não ter que arrumarem de semana em semana
+8 - criminalidade
+S:  Aumentar a quantidade de policiais em locais que pretendem ter assaltos
+9 - Poluição
+S:  Industrias tomarem cuidado com o que queimam
+10 - falta de infraestrutura
+S:  Prefeitura e governo tomarem provedencias
+
+
+
